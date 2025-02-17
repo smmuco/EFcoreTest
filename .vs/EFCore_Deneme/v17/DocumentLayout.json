@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA28192-C3FC-4246-8E8B-42AB28131347}|EFCore_Deneme.csproj|c:\\users\\90538\\source\\repos\\efcore_deneme\\operations\\booksoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA28192-C3FC-4246-8E8B-42AB28131347}|EFCore_Deneme.csproj|solutionrelative:operations\\booksoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA28192-C3FC-4246-8E8B-42AB28131347}|EFCore_Deneme.csproj|c:\\users\\90538\\source\\repos\\efcore_deneme\\dal\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA28192-C3FC-4246-8E8B-42AB28131347}|EFCore_Deneme.csproj|solutionrelative:dal\\authors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA28192-C3FC-4246-8E8B-42AB28131347}|EFCore_Deneme.csproj|c:\\users\\90538\\source\\repos\\efcore_deneme\\dbcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA28192-C3FC-4246-8E8B-42AB28131347}|EFCore_Deneme.csproj|solutionrelative:dbcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA28192-C3FC-4246-8E8B-42AB28131347}|EFCore_Deneme.csproj|c:\\users\\90538\\source\\repos\\efcore_deneme\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA28192-C3FC-4246-8E8B-42AB28131347}|EFCore_Deneme.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA28192-C3FC-4246-8E8B-42AB28131347}|EFCore_Deneme.csproj|c:\\users\\90538\\source\\repos\\efcore_deneme\\operations\\filtering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA28192-C3FC-4246-8E8B-42AB28131347}|EFCore_Deneme.csproj|solutionrelative:operations\\filtering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA28192-C3FC-4246-8E8B-42AB28131347}|EFCore_Deneme.csproj|c:\\users\\90538\\source\\repos\\efcore_deneme\\operations\\filteringmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA28192-C3FC-4246-8E8B-42AB28131347}|EFCore_Deneme.csproj|solutionrelative:operations\\filteringmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA28192-C3FC-4246-8E8B-42AB28131347}|EFCore_Deneme.csproj|c:\\users\\90538\\source\\repos\\efcore_deneme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA28192-C3FC-4246-8E8B-42AB28131347}|EFCore_Deneme.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA28192-C3FC-4246-8E8B-42AB28131347}|EFCore_Deneme.csproj|c:\\users\\90538\\source\\repos\\efcore_deneme\\operations\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA28192-C3FC-4246-8E8B-42AB28131347}|EFCore_Deneme.csproj|solutionrelative:operations\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:56:58.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContextInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\DbContextInitializer.cs",
+              "RelativeDocumentMoniker": "DbContextInitializer.cs",
+              "ToolTip": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\DbContextInitializer.cs",
+              "RelativeToolTip": "DbContextInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T20:56:55.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Authors.cs",
+              "DocumentMoniker": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\DAL\\Authors.cs",
+              "RelativeDocumentMoniker": "DAL\\Authors.cs",
+              "ToolTip": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\DAL\\Authors.cs",
+              "RelativeToolTip": "DAL\\Authors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:31:47.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksOperations.cs",
+              "DocumentMoniker": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\Operations\\BooksOperations.cs",
+              "RelativeDocumentMoniker": "Operations\\BooksOperations.cs",
+              "ToolTip": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\Operations\\BooksOperations.cs",
+              "RelativeToolTip": "Operations\\BooksOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:12:22.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\Operations\\Menu.cs",
+              "RelativeDocumentMoniker": "Operations\\Menu.cs",
+              "ToolTip": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\Operations\\Menu.cs",
+              "RelativeToolTip": "Operations\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:06:40.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:11:36.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilteringMenu.cs",
+              "DocumentMoniker": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\Operations\\FilteringMenu.cs",
+              "RelativeDocumentMoniker": "Operations\\FilteringMenu.cs",
+              "ToolTip": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\Operations\\FilteringMenu.cs",
+              "RelativeToolTip": "Operations\\FilteringMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:06:21.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Filtering.cs",
+              "DocumentMoniker": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\Operations\\Filtering.cs",
+              "RelativeDocumentMoniker": "Operations\\Filtering.cs",
+              "ToolTip": "C:\\Users\\90538\\source\\repos\\EFCore_Deneme\\Operations\\Filtering.cs",
+              "RelativeToolTip": "Operations\\Filtering.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:54:35.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 57,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
